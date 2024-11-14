@@ -1,4 +1,4 @@
-# Case Study: Implementing Similar Image Search Across Fashion Images Using CNN-Based Autoencoder
+# Similar Image Search Across Fashion Images
 
 ## 
 1. DATA folder: Our DATA folder includes a "Data" file with a link to the description of our dataset on the Keras website since we loaded our dataset directly from the Keras library. There is also a description of the dataset and class labels in our Data Appendix in this folder.
