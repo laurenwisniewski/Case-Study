@@ -1,16 +1,11 @@
 # Similar Image Search Across Fashion Images
 
-## 
-1. DATA folder: Our DATA folder includes a "Data" file with a link to the description of our dataset on the Keras website since we loaded our dataset directly from the Keras library. There is also a description of the dataset and class labels in our Data Appendix in this folder.
-2. SCRIPTS folder: Includes DS_PROJECT_3.ipynb, which holds all the source code for loading and preprocessing the data, building and training the CNN-based autoencoder, generating test image embeddings, and displaying similar test images.
-3. OUTPUT folder: Contains plots generated during the initial exploratory data analysis (EDA) of the dataset.
-
 ## Software and platform
 For the project, we used Python and the additional numpy, matplotlib, keras, scipy, and skimage libraries. Each of our group members used Mac platforms.
 
 ## Map of Documentation
-Our DATA folder includes a "Data" file with a link to the description of our dataset on the Keras website since we loaded our dataset directly from the Keras library. It also includes our Data Appendix. In the SCRIPTS folder, there is DS_PROJECT_3.ipynb, which includes all of our source code for loading and preprocessing the data, building and training the CNN-based autoencoder, generating test image embeddings, and displaying similar test images. In the OUTPUT folder, there are plots that were produced from initial EDA of our dataset as well as from our similar image search task.
-
+1. DATA folder: The DATA folder includes a "Data" file with a link to the description of the dataset on the Keras website. There is also a description of the dataset and class labels in our Data Appendix in this folder.
+2. SCRIPTS folder: Includes DS_PROJECT_3.ipynb, which holds all the source code for loading and preprocessing the data, building and training the CNN-based autoencoder, generating test image embeddings, and displaying similar test images.
 
 ## Instructions for reproducing results
 To reproduce the results of this study, follow the steps outlined below:
