@@ -1,7 +1,7 @@
 # Similar Image Search Across Fashion Images
 
 ## Software and platform
-For the project, we used Python and the additional numpy, matplotlib, keras, scipy, and skimage libraries. Each of our group members used Mac platforms.
+For the original project, Python was used as well as the additional numpy, matplotlib, keras, scipy, and skimage libraries.
 
 ## Map of Documentation
 1. DATA folder: The DATA folder includes a "Data" file with a link to the description of the dataset on the Keras website. There is also a description of the dataset and class labels in our Data Appendix in this folder.
@@ -14,7 +14,7 @@ To reproduce the results of this study, follow the steps outlined below:
 1. Navigate to Google Colab and sign in with your Google account.
 2. In the Colab interface, click on File in the top navigation bar, then select Open Notebook.
 3. In the popup titled "Open Notebook," find the left-hand navigation bar and click on the GitHub tab.
-4. In the search bar, enter the username RainaVardhan. In the Repository field, select laurenwisniewski/DS4002-Project-3.
+4. In the search bar, enter the username laurenwisniewski. In the Repository field, select laurenwisniewski/Case-Study.
 5. Open the file located at SCRIPTS/DS_PROJECT_3.ipynb.
 6. After the file opens, go to Runtime in the menu and select Run all to execute all the cells. This will run the entire analysis process, including data preprocessing, model building, and result generation.
 7. The notebook contains sections for data exploration, preprocessing, model training, and evaluation. Review the outputs, plots, and performance metrics generated. You can also modify or rerun specific cells to test different models or parameters.
