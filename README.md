@@ -15,7 +15,7 @@ To reproduce the results of this study, follow the steps outlined below:
 2. In the Colab interface, click on File in the top navigation bar, then select Open Notebook.
 3. In the popup titled "Open Notebook," find the left-hand navigation bar and click on the GitHub tab.
 4. In the search bar, enter the username laurenwisniewski. In the Repository field, select laurenwisniewski/Case-Study.
-5. Open the file located at SCRIPTS/DS_PROJECT_3.ipynb.
+5. Open the file located at SCRIPTS/Case_Study_Code.ipynb.
 6. After the file opens, go to Runtime in the menu and select Run all to execute all the cells. This will run the entire analysis process, including data preprocessing, model building, and result generation.
 7. The notebook contains sections for data exploration, preprocessing, model training, and evaluation. Review the outputs, plots, and performance metrics generated. You can also modify or rerun specific cells to test different models or parameters.
 8.  Once the notebook finishes running, save the results (such as plots and metrics) by downloading them locally or saving them to your Google Drive.
