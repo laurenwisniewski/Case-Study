@@ -5,7 +5,8 @@ For the project, we used Python and the additional numpy, matplotlib, keras, sci
 
 ## Map of Documentation
 1. DATA folder: The DATA folder includes a "Data" file with a link to the description of the dataset on the Keras website. There is also a description of the dataset and class labels in our Data Appendix in this folder.
-2. SCRIPTS folder: Includes DS_PROJECT_3.ipynb, which holds all the source code for loading and preprocessing the data, building and training the CNN-based autoencoder, generating test image embeddings, and displaying similar test images.
+2. RESOURCES folder: Contains online resources to aid in the reproduction of this case study. 
+3. SCRIPTS folder: Includes DS_PROJECT_3.ipynb, which holds all the source code for loading and preprocessing the data, building and training the CNN-based autoencoder, generating test image embeddings, and displaying similar test images.
 
 ## Instructions for reproducing results
 To reproduce the results of this study, follow the steps outlined below:
