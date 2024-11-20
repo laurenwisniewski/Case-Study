@@ -30,4 +30,4 @@ To reproduce the results of this study, follow the steps outlined below:
 [2] zalandoresearch, “GitHub - zalandoresearch/fashion-mnist: A MNIST-like fashion product database. Benchmark,” GitHub, 2017. https://github.com/zalandoresearch/fashion-mnist/tree/master (accessed Nov. 08, 2024).
 [3] K. Team, “Keras documentation: Fashion MNIST dataset, an alternative to MNIST,” keras.io. https://keras.io/api/datasets/fashion_mnist/ 
 [4] V. Reddy, “Exploring Image Similarity Approaches in Python,” ScrapeHero, Oct. 12, 2023. https://medium.com/scrapehero/exploring-image-similarity-approaches-in-python-b8ca0a3ed5a3
-[5]GeeksforGeeks, “Keras Layers API,” GeeksforGeeks, May 13, 2024. https://www.geeksforgeeks.org/keras-layers-api/ (accessed Nov. 08, 2024).
+[5] GeeksforGeeks, “Keras Layers API,” GeeksforGeeks, May 13, 2024. https://www.geeksforgeeks.org/keras-layers-api/ (accessed Nov. 08, 2024).
